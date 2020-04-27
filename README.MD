@@ -16,7 +16,9 @@
 
 * You can copy the file to your own google drive and specify the URL in the file name: googlehire_credentials.json
 
-* You need to share Job Spreeadsheet with the client-email of the file client_secrets.json 
+* You need to share Job Spreeadsheet with the client-email of the file client_secrets.json
+
+* All Job Descriptions docs must be share with the client-email
 
 
 # **PRE-REQUISITES**
