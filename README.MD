@@ -12,9 +12,11 @@
 2. Publishing Jobs in google hire
 
 # **CONSIDERATIONS**
-The spreadsheet file must have the following structure and format. Please check the tamplate: https://docs.google.com/spreadsheets/d/17-oPWMYYx4TeZ_JkgGmSC9bcn2YhLjQlacETBXX_Zoc/edit?usp=sharing
+* The spreadsheet file must have the following structure and format. Please check the tamplate: https://docs.google.com/spreadsheets/d/17-oPWMYYx4TeZ_JkgGmSC9bcn2YhLjQlacETBXX_Zoc/edit?usp=sharing
 
-You can copy the file to your own google drive and specify the URL in the file name: googlehire_credentials.json
+* You can copy the file to your own google drive and specify the URL in the file name: googlehire_credentials.json
+
+* You need to share Job Spreeadsheet with the client-email of the file client_secrets.json 
 
 
 # **PRE-REQUISITES**
