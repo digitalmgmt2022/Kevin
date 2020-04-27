@@ -1,10 +1,10 @@
-# **AUTOMATED POSTING JOBS - GOOGLE HIRE (APJGH)**
+# **GOOGLEHIREAUTOMATEDJOBPOSTING**
 
-*APJGH* this automation development is intended to be use for automating creation and publishing jobs in google hire. The Bot, will read a spreadsheet file hosted in google drive for creating and publishing jobs.
+*GoogleHireAutomatedJobPosting* this automation development is intended to be use for automating creation and publishing jobs in google hire. The Bot, will read a spreadsheet file hosted in google drive for creating and publishing jobs.
 
 # DESCRIPTION
 
-*APJGH* can help you creating and publishing jobs in google hire in order to increase velocity and minimize erros. Also will save time for spending in more productive things.
+*GoogleHireAutomatedJobPosting* can help you creating and publishing jobs in google hire in order to increase velocity and minimize erros. Also will save time for spending in more productive things.
 
 # **OBJECTIVES**
 
