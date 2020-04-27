@@ -19,10 +19,20 @@ You can copy the file to your own google drive and specify the URL in the file n
 # **INSTALATION and USAGE**
 
 1. Install Python
+2. Install followings Libraries
+```python
+pip install selenium
+pip install requests
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+pip install --upgrade google-auth
+```
 2. Download the repository in your local machine
 3. Open windows cmd
 4. Navigate using cmd to repository folder
-5. type: python Bot_Jobposting.py
+5. Execute:
+```bash
+python Bot_Jobposting.py
+```
 
 # SUPPORT
 
