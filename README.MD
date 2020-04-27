@@ -16,6 +16,11 @@ The spreadsheet file must have the following structure and format. Please check 
 
 You can copy the file to your own google drive and specify the URL in the file name: googlehire_credentials.json
 
+
+# **PRE-REQUISITES**
+1. Windows System
+2. Google Chrome Version 81
+
 # **INSTALATION and USAGE**
 
 1. Install Python
