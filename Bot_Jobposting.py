@@ -126,7 +126,7 @@ def waitElementsByTagName(tagName,time_wait,navegador=navegador,extratime=0):
 
 #---------------------------------------------------------------------
                     #Getting Credentials Google Hire
-credeitials_json=json.loads(open("googlehire_credentials.json").read())
+credeitials_json=json.loads(open("googlehire_credentials_real.json").read())
 
 while True:
     try:
