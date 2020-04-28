@@ -208,9 +208,9 @@ while True:
                 if "enter addres" in inputelement.get_attribute("placeholder").lower():
                     inputelement.send_keys(job[2])
                     time.sleep(2)
-                    inputelement.send_keys(Keys.ESCAPE)
+                    inputelement.send_keys(Keys.RETURN)
                     break
-            
+
             #4- Next
             buttons=waitElementsByTagName("button",20,form)
             for button in buttons:
